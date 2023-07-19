@@ -5,12 +5,12 @@
 
 
 ## About Me :wave:
-### Computer Engineering student with experience in backend development using Laravel and knowledge in Next.js, Django, Postman, Github, MySQL, SQLite and PostgresSql. Passionate about programming with skills to solve problems, work in a team and adapt to changing environments.
+#### Computer Engineering student with experience in backend development using Laravel and knowledge in Next.js, Django, Postman, Github, MySQL, SQLite and PostgresSql. Passionate about programming with skills to solve problems, work in a team and adapt to changing environments.
 
 
 ## Technologies I'm Learning :books:
 
-### programming languages:
+### Programming languages:
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&labelColor=282c34)
 ![Java](https://img.shields.io/badge/-Java-FFFFFF?style=for-the-badge&logo=openjdk&labelColor=282c34)
