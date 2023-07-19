@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Carlos Brayan! :stars: 👋</h1> 
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mail@brennanbrown.ca)](mailto:carlos.bramila98@gmail.com)
+
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:carlos.bramila98@gmail.com)](mailto:carlos.bramila98@gmail.com)
 
 <p align="center"> :octocat: <b><a href="https://carterror.github.io/portfolio/">Website</a> / <a href="https://github.com/carterror/carterror/blob/main/CV%20Carlos%20Brayan.pdf">CV</a></b> :octocat: </p>
 
@@ -10,29 +11,45 @@
 
 ## Technologies I'm Learning :books:
 
-#### Software:
+#### programming languages:
 
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffff4a)
-![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&labelColor=282c34)
+![Java](https://img.shields.io/badge/-Java-FFFFFF?style=for-the-badge&logo=openjdk&labelColor=282c34)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=282c34)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&labelColor=282c34)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&labelColor=282c34)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&labelColor=282c34)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&labelColor=282c34)
 
-#### Front-end:
+#### Frameworks and libraries:
 
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=00d632)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&labelColor=282c34)
+![Stylus](https://img.shields.io/badge/-Stylus-333333?style=for-the-badge&logo=stylus&labelColor=282c34)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&labelColor=282c34)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&labelColor=282c34)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&labelColor=282c34)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&labelColor=282c34)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&labelColor=282c34)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&labelColor=282c34)
+![Next](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&labelColor=282c34)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&labelColor=282c34)
 
 
-#### Back-end:
+#### Technologies:
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-
-
-#### Editors and Operating Systems:
-
-![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&labelColor=282c34)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&labelColor=282c34)
+![JetBrain](http://img.shields.io/badge/-JetBrain-000000?style=for-the-badge&logo=jetbrains&labelColor=282c34)
+![VS Code](http://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&labelColor=282c34)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&labelColor=282c34)
+![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&labelColor=282c34)
+![Shields](https://img.shields.io/badge/-Shields.io-000000?style=for-the-badge&logo=shieldsdotio&labelColor=282c34)
+![Sqlite](https://img.shields.io/badge/-Sqlite-003B57?style=for-the-badge&logo=sqlite&labelColor=282c34)
+![Mysql](https://img.shields.io/badge/-Mysql-4479A1?style=for-the-badge&logo=mysql&labelColor=282c34)
+![Chatbot](https://img.shields.io/badge/-Chatbot-0066FF?style=for-the-badge&logo=chatbot&labelColor=282c34)
+![Windows](https://img.shields.io/badge/-Windows_11-0078D4?style=for-the-badge&logo=windows11&labelColor=282c34)
+![Linux](https://img.shields.io/badge/-Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&labelColor=282c34)
+![Code]()
 
 <hr/>
 
