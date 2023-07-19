@@ -1,17 +1,16 @@
 <h1 align="center">Hi, I'm Carlos Brayan! :stars: 👋</h1> 
 
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:carlos.bramila98@gmail.com)](mailto:carlos.bramila98@gmail.com)
 
 <p align="center"> :octocat: <b><a href="https://carterror.github.io/portfolio/">Website</a> / <a href="https://github.com/carterror/carterror/blob/main/CV%20Carlos%20Brayan.pdf">CV</a></b> :octocat: </p>
 
 
 ## About Me :wave:
-###Computer Engineering student with experience in backend development using Laravel and knowledge in Next.js, Django, Postman, Github, MySQL, SQLite and PostgresSql. Passionate about programming with skills to solve problems, work in a team and adapt to changing environments.
+### Computer Engineering student with experience in backend development using Laravel and knowledge in Next.js, Django, Postman, Github, MySQL, SQLite and PostgresSql. Passionate about programming with skills to solve problems, work in a team and adapt to changing environments.
 
 
 ## Technologies I'm Learning :books:
 
-#### programming languages:
+### programming languages:
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&labelColor=282c34)
 ![Java](https://img.shields.io/badge/-Java-FFFFFF?style=for-the-badge&logo=openjdk&labelColor=282c34)
@@ -21,7 +20,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&labelColor=282c34)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&labelColor=282c34)
 
-#### Frameworks and libraries:
+### Frameworks and libraries:
 
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&labelColor=282c34)
 ![Stylus](https://img.shields.io/badge/-Stylus-333333?style=for-the-badge&logo=stylus&labelColor=282c34)
@@ -35,7 +34,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&labelColor=282c34)
 
 
-#### Technologies:
+### Technologies:
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&labelColor=282c34)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&labelColor=282c34)
@@ -49,16 +48,17 @@
 ![Chatbot](https://img.shields.io/badge/-Chatbot-0066FF?style=for-the-badge&logo=chatbot&labelColor=282c34)
 ![Windows](https://img.shields.io/badge/-Windows_11-0078D4?style=for-the-badge&logo=windows11&labelColor=282c34)
 ![Linux](https://img.shields.io/badge/-Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&labelColor=282c34)
-![Code]()
+
 
 <hr/>
 
 :star: From [@carterror](https://github.com/carterror)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge=Gmail&logoColor=white&link=mailto:carlos.bramila98@gmail.com)](mailto:carlos.bramila98@gmail.com)
 <!--
 **carterror/carterror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://github.com/carterror/carterror/blob/main/CV%20Carlos%20Brayan.pdf
 Here are some ideas to get you started:
-
+![Code]()
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
