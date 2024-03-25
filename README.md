@@ -50,6 +50,19 @@
 ![Linux](https://img.shields.io/badge/-Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&labelColor=282c34)
 
 
+### 📈 My GitHub Stats
+
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=carterror&layout=compact&langs_count=8&theme=radical"
+    media="(prefers-color-scheme: dark)" />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=carterror&layout=compact&langs_count=8&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carterror&layout=compact&langs_count=8" />
+</picture>
+
 <hr/>
 
 :star: From [@carterror](https://github.com/carterror)
