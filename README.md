@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Carlos Brayan! :stars: 👋</h1> 
 
+[![committers.top badge](https://user-badge.committers.top/cuba/carterror.svg)](https://user-badge.committers.top/cuba/carterror)
 
-<p align="center"> :octocat: <b><a href="https://carterror.github.io/portfolio/">Website</a> / <a href="https://github.com/carterror/carterror/blob/main/CV%20Carlos%20Brayan.pdf">CV</a></b> :octocat: </p>
+
+<p align="center"> :octocat: <b><a href="https://carterror-porfolio.netlify.app/">Website</a> / <a href="https://github.com/carterror/carterror/blob/main/CV%20Carlos%20Brayan.pdf">CV</a></b> :octocat: </p>
 
 
 ## About Me :wave:
@@ -55,14 +57,16 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=carterror&layout=compact&langs_count=8&theme=radical"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=carterror&layout=compact&langs_count=8&theme=radical&hide_border=true&hide_progress=true"
     media="(prefers-color-scheme: dark)" />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=carterror&layout=compact&langs_count=8&theme=default"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=carterror&layout=compact&langs_count=8&theme=default&hide_border=true&hide_progress=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carterror&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carterror&layout=compact&langs_count=8&hide_border=true&hide_progress=true" />
 </picture>
 
+<br>  
+ <a href="https://github.com/carterror/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=carterror&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&layout=compact&show=prs_merged,prs_merged_percentage&rank_icon=github" alt="Carlos's github stats" /></a> 
 <hr/>
 
 :star: From [@carterror](https://github.com/carterror)
